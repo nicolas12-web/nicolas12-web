@@ -1,4 +1,12 @@
-# 👨🏽‍💻 Olá! Eu sou o Nicolas Righi
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ # 👨🏽‍💻 Olá! Eu sou o Nicolas Righi
 
 **`Desenvolvedora Front-End`**
 
@@ -14,6 +22,14 @@ Atualmente, trabalho principalmente com HTML, CSS e JavaScript, que são as tecn
     />
   </a>
 
+  <a href="https://www.linkedin.com/in/nicolas-righi-a14104237/">
+    <img 
+      alt="LinkedIn" 
+      title="LinkedIn" 
+      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
   <a href="https://github.com/nicolas12-web">
     <img 
       alt="Portfólio" 
@@ -22,13 +38,6 @@ Atualmente, trabalho principalmente com HTML, CSS e JavaScript, que são as tecn
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/nicolas-righi-a14104237/">
-    <img 
-      alt="LinkedIn" 
-      title="LinkedIn" 
-      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
 </p>
 
 
