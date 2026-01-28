@@ -1,4 +1,4 @@
-# 👨🏽‍💻Nicolas Righi
+# 👨🏽‍💻 Olá! Eu sou o Nicolas Righi
 
 **`Desenvolvedora Front-End`**
 
@@ -18,15 +18,16 @@ Atualmente, trabalho principalmente com HTML, CSS e JavaScript, que são as tecn
     <img 
       alt="LinkedIn" 
       title="LinkedIn" 
-      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white"
     />
+ 
   </a>
 
   <a href="https://github.com/nicolas12-web">
     <img 
       alt="Portfólio" 
       title="Portfólio" 
-      src="https://custom-icon-badges.demolab.com/github/stars/nicolas12-web?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Portfólio"
+      src="https://img.shields.io/badge/Portf%C3%B3lio-55960c?style=for-the-badge&logo=react&logoColor=white"
     />
   </a>
 
@@ -127,5 +128,4 @@ Atualmente, trabalho principalmente com HTML, CSS e JavaScript, que são as tecn
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas12-web&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
 
