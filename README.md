@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Olá! Eu sou o Nicolas Righi
+# 👨🏽‍💻 Nicolas Righi
 
 **`Desenvolvedora Front-End`**
 
