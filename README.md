@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Nicolas Righi
+# 👨🏽‍💻 Olá! Eu sou o Nicolas Righi
 
 **`Desenvolvedora Front-End`**
 
@@ -6,7 +6,7 @@ Sou estudante de Bacharelado em Sistemas de Informação pela FHO – Fundação
 Atualmente, trabalho principalmente com HTML, CSS e JavaScript, que são as tecnologias com as quais tenho mais segurança e domínio. Gosto de cuidar da base do código, da organização, da responsividade e da experiência do usuário.
 
 <p align="left">
-  <a href="https://www.instagram.com/nicolas.righii/">
+  <a href="https://www.instagram.com/nicolas.righii/" target="_blank">
     <img 
       alt="Instagram" 
       title="Instagram" 
@@ -14,7 +14,7 @@ Atualmente, trabalho principalmente com HTML, CSS e JavaScript, que são as tecn
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/nicolas-righi-a14104237/">
+  <a href="https://www.linkedin.com/in/nicolas-righi-a14104237/" target="_blank">
     <img 
       alt="LinkedIn" 
       title="LinkedIn" 
@@ -23,7 +23,7 @@ Atualmente, trabalho principalmente com HTML, CSS e JavaScript, que são as tecn
  
   </a>
 
-  <a href="https://github.com/nicolas12-web">
+  <a href="https://github.com/nicolas12-web" target="_blank">
     <img 
       alt="Portfólio" 
       title="Portfólio" 
@@ -129,3 +129,4 @@ Atualmente, trabalho principalmente com HTML, CSS e JavaScript, que são as tecn
   />
 </p>
 
+   
