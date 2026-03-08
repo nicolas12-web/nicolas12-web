@@ -110,16 +110,6 @@ Atualmente, trabalho principalmente com HTML, CSS e JavaScript, que são as tecn
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas12-web&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
 
    
