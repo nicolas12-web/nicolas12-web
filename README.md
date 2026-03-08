@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Nicolas Righi
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 
 Sou estudante de Bacharelado em Sistemas de Informação pela FHO – Fundação Hermínio Ometto e estou próximo de concluir o curso. Tenho foco em desenvolvimento web, com interesse em criar interfaces bem estruturadas, funcionais e responsivas.
 Atualmente, trabalho principalmente com HTML, CSS e JavaScript, que são as tecnologias com as quais tenho mais segurança e domínio. Gosto de cuidar da base do código, da organização, da responsividade e da experiência do usuário.
