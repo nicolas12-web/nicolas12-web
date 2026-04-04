@@ -6,13 +6,7 @@ Sou estudante de Bacharelado em Sistemas de Informação pela FHO – Fundação
 Atualmente, trabalho principalmente com HTML, CSS e JavaScript, que são as tecnologias com as quais tenho mais segurança e domínio. Gosto de cuidar da base do código, da organização, da responsividade e da experiência do usuário.
 
 <p align="left">
-  <a href="https://www.instagram.com/nicolas.righii/">
-    <img 
-      alt="Instagram" 
-      title="Instagram" 
-      src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
+
 
   <a href="https://www.linkedin.com/in/nicolas-righi-a14104237/" >
     <img 
